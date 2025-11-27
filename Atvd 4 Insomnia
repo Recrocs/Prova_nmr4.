@@ -1,0 +1,630 @@
+type: collection.insomnia.rest/5.0
+schema_version: "5.1"
+name: Scratch Pad
+meta:
+  id: wrk_scratchpad
+  created: 1755773617187
+  modified: 1755773617187
+  description: ""
+collection:
+  - name: Biblioteca
+    meta:
+      id: fld_73a6bf5f6eee497890925fb133032522
+      created: 1755785899952
+      modified: 1755785899952
+      sortKey: -1755785899952
+      description: ""
+    children:
+      - name: Usuarios
+        meta:
+          id: fld_463ff47ad1ff424c9ce10e87564baa8c
+          created: 1755785956621
+          modified: 1756993444619
+          sortKey: -1756389357911
+          description: ""
+      - name: Livros
+        meta:
+          id: fld_759f742f9f34498e8b3d4533347c7efe
+          created: 1756389357811
+          modified: 1756389357811
+          sortKey: -1756389357811
+          description: ""
+  - name: DER 1 Escola
+    meta:
+      id: fld_da541fe668f54876bd20dba2d51225d1
+      created: 1756987072436
+      modified: 1756996113352
+      sortKey: -1756987072436
+      description: ""
+    children:
+      - name: Turmas
+        meta:
+          id: fld_48795065174648f994318e64ae1d5781
+          created: 1756995735025
+          modified: 1756995735025
+          sortKey: -1756995735025
+          description: ""
+      - name: Professores
+        meta:
+          id: fld_64324c1630764582b2d5a98fdd6b3aeb
+          created: 1756995751082
+          modified: 1756995751082
+          sortKey: -1756995751082
+          description: ""
+      - name: Possuii
+        meta:
+          id: fld_9077291a5041435c8bb39d53acea105c
+          created: 1756995763864
+          modified: 1756995763864
+          sortKey: -1756995763864
+          description: ""
+      - name: Disciplina
+        meta:
+          id: fld_d0d85c39c0db441ebee04e6d198833e2
+          created: 1756995782741
+          modified: 1756995782741
+          sortKey: -1756995782741
+          description: ""
+  - name: Hotel
+    meta:
+      id: fld_0e4c6f391a824a689d085d04cbfeb499
+      created: 1757601027700
+      modified: 1758197429436
+      sortKey: -1757601027700
+      description: ""
+    children:
+      - name: Reservas
+        meta:
+          id: fld_a249669ea84c422798aaac5a4d345fcf
+          created: 1757601041827
+          modified: 1757601041827
+          sortKey: -1757601041827
+          description: ""
+  - name: Loja
+    meta:
+      id: fld_9f47056036a24c42bde12cc3b91dcfdc
+      created: 1758197382823
+      modified: 1758197382823
+      sortKey: -1758197382823
+      description: ""
+    children:
+      - name: Produtos
+        meta:
+          id: fld_875110a66b6f4a0298e88b24f2571ed9
+          created: 1758197444318
+          modified: 1758197444318
+          sortKey: -1758197444318
+          description: ""
+      - name: Clientes
+        meta:
+          id: fld_49749a0de5dc4662a7e9f2f06ea083e8
+          created: 1758197476220
+          modified: 1758197476220
+          sortKey: -1758197476220
+          description: ""
+      - name: Pedidos
+        meta:
+          id: fld_dc61a5422c4743cd8f98f7678223b7de
+          created: 1758197490263
+          modified: 1758197499788
+          sortKey: -1758197460269
+          description: ""
+  - name: Locadora
+    meta:
+      id: fld_ae89ecd38c9d4122a384716429e15628
+      created: 1758807623417
+      modified: 1759154961068
+      sortKey: -1758807623417
+      description: ""
+    children:
+      - name: Filmes
+        meta:
+          id: fld_d6ee846c7c1540fda6ee872bd9442029
+          created: 1759155405394
+          modified: 1759155405394
+          sortKey: -1759155405394
+          description: ""
+      - name: Clientes
+        meta:
+          id: fld_964dbc7ec79b465094a8792dd132a9c5
+          created: 1759404919071
+          modified: 1759404919071
+          sortKey: -1759404919071
+          description: ""
+      - name: Locações
+        meta:
+          id: fld_6c68f4b971234019b9ae2981e64db9b0
+          created: 1759404974936
+          modified: 1759760192819
+          sortKey: -1759404974936
+          description: ""
+  - name: Biblioteca
+    meta:
+      id: fld_10e9ac73398b472c87edc128ca2fd88c
+      created: 1760019634015
+      modified: 1760035993782
+      sortKey: -1760019634015
+      description: ""
+    children:
+      - name: Cliente
+        meta:
+          id: fld_c0bd5cbc544349a794e0ed94eded917b
+          created: 1760035982470
+          modified: 1760035982470
+          sortKey: -1760035982470
+          description: ""
+      - name: Emprestimos
+        meta:
+          id: fld_2fe18b64e40a434090c14aa7e789e6b6
+          created: 1760036011838
+          modified: 1760036011838
+          sortKey: -1760036011838
+          description: ""
+      - name: Livros
+        meta:
+          id: fld_262192cb83794a5389e3119113d35d62
+          created: 1760036021961
+          modified: 1760036135688
+          sortKey: -1760036021961
+          description: ""
+      - name: Vendas
+        meta:
+          id: fld_ce25924a82c145a0a5de2ee755f406c3
+          created: 1760036029194
+          modified: 1760036029194
+          sortKey: -1760036029194
+          description: ""
+  - name: ATVD backend eventos
+    meta:
+      id: fld_1ac7d17d0ded4fb1ba72963aff3003a0
+      created: 1762795640533
+      modified: 1762795640533
+      sortKey: -1762795640533
+      description: ""
+    children:
+      - name: contratações
+        meta:
+          id: fld_8781712d00a14025bae444d186d7c9a9
+          created: 1762795672040
+          modified: 1762795672040
+          sortKey: -1762795672040
+          description: ""
+      - name: Eventos
+        meta:
+          id: fld_be93db36c1754034b8ea2fe9eeaef72d
+          created: 1762795706522
+          modified: 1762795706522
+          sortKey: -1762795706522
+          description: ""
+      - name: Fornecedores
+        meta:
+          id: fld_41c2f9b1c2da437d8d5b5924bed7c288
+          created: 1762795717395
+          modified: 1762795717395
+          sortKey: -1762795717395
+          description: ""
+  - name: Atvd 4 Prova (Escola)
+    meta:
+      id: fld_f1a531e579af487d8bca27e00e1b56b8
+      created: 1764245124134
+      modified: 1764245140234
+      sortKey: -1764245124134
+      description: ""
+    children:
+      - name: Alunos
+        meta:
+          id: fld_36e47d962abd48dd826c82070e68ac0b
+          created: 1764245135429
+          modified: 1764245135429
+          sortKey: -1764245135429
+          description: ""
+        children:
+          - url: http://localhost:3000/alunos/5
+            name: Deletar Alunos
+            meta:
+              id: req_02cf232f51af446aa79d4f3784a0b90a
+              created: 1764245192588
+              modified: 1764249544058
+              isPrivate: false
+              description: ""
+              sortKey: -1764245192588
+            method: DELETE
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/alunos/4
+            name: Atualizar Alunos
+            meta:
+              id: req_6bd1fb0a30094777b7c87056ab571e6c
+              created: 1764245195033
+              modified: 1764249504196
+              isPrivate: false
+              description: ""
+              sortKey: -1764245195033
+            method: PUT
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                	"nome": "Francisco Barroso",
+                	"turma": "2a"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/alunos
+            name: Listar Alunos
+            meta:
+              id: req_5db9c9af9bfc4453943c1f7939f4068c
+              created: 1764245197101
+              modified: 1764246017780
+              isPrivate: false
+              description: ""
+              sortKey: -1764245197101
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/alunos
+            name: Criar Alunos
+            meta:
+              id: req_89c189d558114222989a127af43a211d
+              created: 1764245201548
+              modified: 1764245967006
+              isPrivate: false
+              description: ""
+              sortKey: -1764245201548
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                	"nome": "Kaique Saraiva",
+                	"turma": "2A"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: "Inscrições "
+        meta:
+          id: fld_9972f8a102b044e48c4351fe9ce00375
+          created: 1764245152654
+          modified: 1764245152654
+          sortKey: -1764245152654
+          description: ""
+        children:
+          - url: http://localhost:3000/inscricoes/oficinas
+            name: Inscrições Por Oficina
+            meta:
+              id: req_d107a796ac1d4b3db2cc852cba5c5bf1
+              created: 1764245178670
+              modified: 1764265600758
+              isPrivate: false
+              description: ""
+              sortKey: -1764245178670
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/inscricoes/categorias
+            name: Inscrições Por Categoria
+            meta:
+              id: req_c3ecc5b578a44536a91e764df11d6328
+              created: 1764245180806
+              modified: 1764265657690
+              isPrivate: false
+              description: ""
+              sortKey: -1764245180806
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/inscricoes/1
+            name: Deletar Inscrições
+            meta:
+              id: req_d08cd54c6d8b4911843e07e59b2ac53a
+              created: 1764245183052
+              modified: 1764250662168
+              isPrivate: false
+              description: ""
+              sortKey: -1764245183052
+            method: DELETE
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/inscricoes/1
+            name: Atualizar Inscrições
+            meta:
+              id: req_de1cb4b42f5142889eba4c72d282291c
+              created: 1764245185391
+              modified: 1764250629066
+              isPrivate: false
+              description: ""
+              sortKey: -1764245185391
+            method: PUT
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                	"data_inscricao": "2025-11-28",
+                	"id_aluno": 1,
+                	"id_oficina": 2
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/inscricoes
+            name: "Listar Inscrições "
+            meta:
+              id: req_485f84d2cb2d4fffbe6fe2954baa2b27
+              created: 1764245669643
+              modified: 1764250410737
+              isPrivate: false
+              description: ""
+              sortKey: -1764245669643
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/inscricoes
+            name: Criar Inscrições
+            meta:
+              id: req_5b5ea92907e74d049a1becd79103f61f
+              created: 1764245672337
+              modified: 1764250374702
+              isPrivate: false
+              description: ""
+              sortKey: -1764245672337
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                	"data_inscrição": "2025-11-27",
+                	"id_aluno": 1,
+                	"id_oficina": 2
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Oficinas
+        meta:
+          id: fld_32416caa67cf4e48a24b6fe130858a34
+          created: 1764245161714
+          modified: 1764245161714
+          sortKey: -1764245161714
+          description: ""
+        children:
+          - url: http://localhost:3000/oficinas/3
+            name: Deletar Oficinas
+            meta:
+              id: req_eed90152b0944c0892fa2d92171cd104
+              created: 1764245167914
+              modified: 1764250298361
+              isPrivate: false
+              description: ""
+              sortKey: -1764245167914
+            method: DELETE
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/oficinas/1
+            name: Atualizar Oficinas
+            meta:
+              id: req_680012c4a5da4ba1b4675ad03a8cc401
+              created: 1764245169884
+              modified: 1764250199520
+              isPrivate: false
+              description: ""
+              sortKey: -1764245169884
+            method: PUT
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                	"nome": "Pintura",
+                	"categoria": "Artes",
+                	"vagas": 15
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/oficinas
+            name: Listar Oficinas
+            meta:
+              id: req_36706218e19a4364979c63a49d9a1ca3
+              created: 1764245171647
+              modified: 1764249782561
+              isPrivate: false
+              description: ""
+              sortKey: -1764245171647
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:3000/oficinas
+            name: Criar Oficinas
+            meta:
+              id: req_07913a90f2a046df9f2f87d3624b59d8
+              created: 1764245173423
+              modified: 1764249765060
+              isPrivate: false
+              description: ""
+              sortKey: -1764245173423
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                	"nome": "Robotica",
+                	"categoria": "Tecnologia",
+                	"vagas": 15
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.1.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1755784986555
+    modified: 1755784986555
+environments:
+  name: Base Environment
+  meta:
+    id: env_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1755784986389
+    modified: 1755784986389
+    isPrivate: false
